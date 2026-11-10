@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Praise Agboola
 
-<!--
-**Praise17html/Praise17html** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Quantitative research · Machine learning · Python.
 
-Here are some ideas to get you started:
+⚡️ Passionate about `Prediction markets`, `Volatility`, `Quantitative finance`, and `Machine learning`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently running a live, timestamped forward test of [Kalshi oil contracts vs the options market](https://github.com/Praise17html/kalshi-oil-vol).
+
+[![Profile views](https://komarev.com/ghpvc/?username=Praise17html&color=blue)](https://github.com/Praise17html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PraiseAgboola-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PraiseAgboola)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praise17html&layout=compact&theme=dark&hide_border=true" alt="Top languages" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=Praise17html&theme=dark&hide_border=true" alt="GitHub streak" /></td>
+  </tr>
+</table>
