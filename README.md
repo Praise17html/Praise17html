@@ -2,7 +2,7 @@
 
 🧑‍💻 Quantitative research · Machine learning · Python.
 
-⚡️ Passionate about `Prediction markets`, `Volatility`, `Quantitative finance`, and `Machine learning`.
+⚡️ Passionate about `Prediction markets`, `Volatility`, `Quantitative finance`, `Machine learning`, and `LEARNING`
 
 🔭 Currently running a live, timestamped forward test of [Kalshi oil contracts vs the options market](https://github.com/Praise17html/kalshi-oil-vol).
 
