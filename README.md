@@ -7,7 +7,6 @@
 🔭 Currently running a live, timestamped forward test of [Kalshi oil contracts vs the options market](https://github.com/Praise17html/kalshi-oil-vol).
 
 [![Profile views](https://komarev.com/ghpvc/?username=Praise17html&color=blue)](https://github.com/Praise17html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PraiseAgboola-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PraiseAgboola)
 
 <table>
   <tr>
